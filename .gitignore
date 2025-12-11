@@ -1,0 +1,16 @@
+# Ignore compiled files
+*.o
+*.pyc
+
+# Ignore build directories
+build/
+dist/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore cv models and data
+*.pt
+*.pth
+UserData/
