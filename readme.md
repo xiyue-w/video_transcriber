@@ -1,5 +1,6 @@
 ## 🎥 Video Transcriber & Annotation Tool
 A Gradio-based Whisper transcription and qualitative coding interface with GPT-assisted labeling.
+<img width="1895" height="831" alt="スクリーンショット 2025-12-12 15 05 27" src="https://github.com/user-attachments/assets/8f68a404-4684-4e68-9fe8-e6882cf44415" />
 
 ------------------------------------------------------------------------
 
