@@ -13,4 +13,5 @@ Thumbs.db
 # Ignore cv models and data
 *.pt
 *.pth
-UserData/
+UserData/*.txt
+UserData/Saved/*.json
