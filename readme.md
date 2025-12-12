@@ -90,7 +90,7 @@ Open your browser at:
     ├── utils_core.py
     ├── requirements.txt
     └── UserData/
-        ├── my_api_key.txt (‼️Not included in the repository. You have to create one with GPT api key inside by yourself.)
+        ├── my_api_key.txt (‼️Not included. You have to create one with GPT api key inside by yourself.)
         └── Saved/
             └──saved_segments.json
 
