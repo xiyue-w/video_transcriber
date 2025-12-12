@@ -1,29 +1,5 @@
-```{=html}
-<p align="center">
-```
-`<img src="https://img.shields.io/badge/Python-3.11-blue.svg" />`{=html}
-`<img src="https://img.shields.io/badge/Gradio-4.x-orange.svg" />`{=html}
-`<img src="https://img.shields.io/badge/Whisper-Transcription-green" />`{=html}
-`<img src="https://img.shields.io/badge/License-MIT-green" />`{=html}
-`<img src="https://img.shields.io/github/last-commit/yourusername/video-transcriber" />`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<h1 align="center">
-```
-🎥 Video Transcriber & Annotation Tool
-```{=html}
-</h1>
-```
-```{=html}
-<p align="center">
-```
-A Gradio-based Whisper transcription and qualitative coding interface
-with GPT-assisted labeling.
-```{=html}
-</p>
-```
+## 🎥 Video Transcriber & Annotation Tool
+A Gradio-based Whisper transcription and qualitative coding interface with GPT-assisted labeling.
 
 ------------------------------------------------------------------------
 
